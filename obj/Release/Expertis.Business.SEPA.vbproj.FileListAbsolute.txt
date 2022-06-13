@@ -1,0 +1,14 @@
+P:\EXPERTIS\EXPERTISNET50R2\Bin_TECOZAM\Expertis.Business.SEPA.dll
+P:\EXPERTIS\EXPERTISNET50R2\Bin_TECOZAM\Expertis.Business.SEPA.pdb
+P:\EXPERTIS\CODIGOFUENTE_50R2\DoNetTecozam\Business\Expertis.Business.SEPA\obj\Release\ResolveAssemblyReference.cache
+P:\EXPERTIS\CODIGOFUENTE_50R2\DoNetTecozam\Business\Expertis.Business.SEPA\obj\Release\Solmicro.Expertis.Business.SEPA.Resources.resources
+P:\EXPERTIS\CODIGOFUENTE_50R2\DoNetTecozam\Business\Expertis.Business.SEPA\obj\Release\Expertis.Business.SEPA.vbproj.GenerateResource.Cache
+P:\EXPERTIS\CODIGOFUENTE_50R2\DoNetTecozam\Business\Expertis.Business.SEPA\obj\Release\Expertis.Business.SEPA.dll
+P:\EXPERTIS\CODIGOFUENTE_50R2\DoNetTecozam\Business\Expertis.Business.SEPA\obj\Release\Expertis.Business.SEPA.pdb
+C:\ExpertisNet50R2test\Bin\Expertis.Business.SEPA.dll
+C:\ExpertisNet50R2test\Bin\Expertis.Business.SEPA.pdb
+C:\DES EXP5R2\Fuentes\PAGO OPERARIO IBIS\Expertis.Business.SEPA\obj\Release\ResolveAssemblyReference.cache
+C:\DES EXP5R2\Fuentes\PAGO OPERARIO IBIS\Expertis.Business.SEPA\obj\Release\Solmicro.Expertis.Business.SEPA.Resources.resources
+C:\DES EXP5R2\Fuentes\PAGO OPERARIO IBIS\Expertis.Business.SEPA\obj\Release\Expertis.Business.SEPA.vbproj.GenerateResource.Cache
+C:\DES EXP5R2\Fuentes\PAGO OPERARIO IBIS\Expertis.Business.SEPA\obj\Release\Expertis.Business.SEPA.dll
+C:\DES EXP5R2\Fuentes\PAGO OPERARIO IBIS\Expertis.Business.SEPA\obj\Release\Expertis.Business.SEPA.pdb
