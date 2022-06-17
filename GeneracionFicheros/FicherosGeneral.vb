@@ -91,6 +91,8 @@ End Class
 
     'IBIS. SERGIO - 20/02/19
     Public strTipoFichero As String
+    'David Velasco 16/06/2022
+    Public dt As DataTable
 End Class
 
 Public Class ProcessInfoFichero

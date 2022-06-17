@@ -12,3 +12,8 @@ C:\DES EXP5R2\Fuentes\PAGO OPERARIO IBIS\Expertis.Business.SEPA\obj\Release\Solm
 C:\DES EXP5R2\Fuentes\PAGO OPERARIO IBIS\Expertis.Business.SEPA\obj\Release\Expertis.Business.SEPA.vbproj.GenerateResource.Cache
 C:\DES EXP5R2\Fuentes\PAGO OPERARIO IBIS\Expertis.Business.SEPA\obj\Release\Expertis.Business.SEPA.dll
 C:\DES EXP5R2\Fuentes\PAGO OPERARIO IBIS\Expertis.Business.SEPA\obj\Release\Expertis.Business.SEPA.pdb
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.SEPA2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.SEPA2\obj\Release\Solmicro.Expertis.Business.SEPA.Resources.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.SEPA2\obj\Release\Expertis.Business.SEPA.vbproj.GenerateResource.Cache
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.SEPA2\obj\Release\Expertis.Business.SEPA.dll
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.SEPA2\obj\Release\Expertis.Business.SEPA.pdb
